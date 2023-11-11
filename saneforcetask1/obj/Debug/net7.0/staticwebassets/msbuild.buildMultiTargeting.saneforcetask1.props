@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\saneforcetask1.props" />
+</Project>
